@@ -1,0 +1,90 @@
+Build a complete modern, conversion-focused Lead Generation Website for a service-based company called "GrowthEdge Marketing".
+
+This should be a production-ready, fully responsive website designed to generate leads and increase inquiries.
+
+Tech Stack:
+- Next.js (App Router)
+- Tailwind CSS
+- Framer Motion for subtle animations
+- Reusable component structure
+- Clean folder architecture
+
+Business Type:
+Digital marketing and lead generation agency serving small and medium businesses.
+
+Main Goal:
+Maximize conversions and generate inquiries through strong CTAs and strategic layout.
+
+Pages Required:
+1. Home
+2. About
+3. Services
+4. Case Studies
+5. Contact
+
+Home Page Sections (Very Important):
+- Hero section with strong headline and CTA button ("Get Free Strategy Call")
+- Social proof (client logos or stats like 250+ clients served)
+- Services preview cards (3 core services)
+- Benefits section (Why Choose Us)
+- Testimonials section (3 realistic testimonials)
+- Case study highlight
+- Final CTA section with urgency
+- Professional footer
+
+Services Page:
+- Detailed breakdown of 3 services:
+  - Lead Generation Campaigns
+  - Paid Ads Management
+  - Conversion Optimization
+- Each service must include:
+  - Description
+  - Key benefits
+  - CTA button
+
+Case Studies Page:
+- 2 realistic case studies with:
+  - Client name
+  - Problem
+  - Strategy
+  - Results (use believable metrics like 42% increase in leads)
+
+Contact Page:
+- Lead capture form
+- Fields:
+  - Name
+  - Email
+  - Business Name
+  - Service Interested In
+  - Message
+- Form validation
+- Success confirmation message
+- Optional backend API route to handle submissions
+
+Design Requirements:
+- Modern clean business layout
+- Professional blue and dark theme
+- Smooth hover effects
+- Subtle motion animations
+- Proper spacing and hierarchy
+- Mobile-first responsive design
+
+Conversion Optimization Features:
+- Sticky navigation bar
+- CTA buttons repeated strategically
+- Trust badges section
+- Clear value proposition
+- No lorem ipsum content — use realistic business copy
+
+Technical Requirements:
+- Organized component structure (components/, sections/, layout/)
+- Reusable button and card components
+- Clean semantic HTML
+- SEO meta tags included
+- Optimized images
+- Ready for Vercel deployment
+- Include setup instructions
+
+Make the website look like it was built by a professional developer for a real paying client.
+Avoid generic template appearance.
+Use realistic business copywriting tone.
